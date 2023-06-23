@@ -16,7 +16,7 @@ const leerDB = () => {
     const data = JSON.parse(info);
     //console.log(data);
     return data;
-
+}
 
 module.exports = {
     guardarDB,
