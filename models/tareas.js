@@ -15,6 +15,10 @@ class Tareas {
 
   constructor() {
     this._listado = {};
+
+
+
+    
   }
 
   cargarTareasFromArray(tareas = []) {
